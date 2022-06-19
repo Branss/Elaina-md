@@ -15,9 +15,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282331660134','6282331660134','6282331660134','6282331660134']
-global.premium = ['6282331660134']
-global.botnma = 'Elaina - MD'
+global.owner = ['6282325673016','6288227217418','13177997217','0']
+global.premium = ['6282325673016']
+global.botnma = 'Delta - MD'
 global.ownernma = 'Skylarkaf'
 global.packname = '' 
 global.author = '⫹⫺ Created By : Elaina - MD\n⫹⫺ Owner : SkylarKaf\n⫹⫺ Instagram : @skylarkaf_\n⫹⫺ Website : https://s.id/Skylarkaf'
