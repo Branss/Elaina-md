@@ -15,7 +15,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6282325673016','6288227217418','13177997217','0']
+global.owner = ['6282325673016','6288227217418','13177997217','6285795404882']
 global.premium = ['6282325673016']
 global.botnma = 'Delta - MD'
 global.ownernma = 'Skylarkaf'
